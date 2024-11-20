@@ -1,3 +1,0 @@
-# GitHub & Public test
-
-## Test
