@@ -48,23 +48,6 @@ Follow our handy guides to get started on the basics as quickly as possible:
 
 ### Fundamentals: Dive a little deeper
 
-Learn the fundamentals of MyProduct to get a deeper understanding of our main features:
-
-{% content-ref url="/broken/pages/UDFznjHVqI0uNpQXZ7lk" %}
-[Broken link](/broken/pages/UDFznjHVqI0uNpQXZ7lk)
-{% endcontent-ref %}
-
-{% content-ref url="/broken/pages/XarC3yidftEs0wPzcf5X" %}
-[Broken link](/broken/pages/XarC3yidftEs0wPzcf5X)
-{% endcontent-ref %}
-
-{% content-ref url="/broken/pages/XFhh8W9lUsgIwnjWK7MU" %}
-[Broken link](/broken/pages/XFhh8W9lUsgIwnjWK7MU)
-{% endcontent-ref %}
-
-{% content-ref url="/broken/pages/rlDFjcrqYurTq6vxvp0L" %}
-[Broken link](/broken/pages/rlDFjcrqYurTq6vxvp0L)
-{% endcontent-ref %}
 
 {% hint style="info" %}
 **Good to know:** Splitting your product into fundamental concepts, objects, or areas can be a great way to let readers deep dive into the concepts that matter most to them. Combine guides with this approach to 'fundamentals' and you're well on your way to great documentation!
