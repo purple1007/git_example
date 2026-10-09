@@ -1,14 +1,32 @@
-# GitHub & Public test
+# What is MyProduct?
 
-## Test
-gggggg
+{% hint style="info" %}
+**Good to know:** A succinct video overview i Embed a Loom, Vimeo or YouTube video and you're good to go! We love this video from the fine folks at [Loom](https://loom.com) as a perfect example of a succinct feature overview.
+{% endhint %}
+
+### Guides: Jump right in
+
+Follow our handy guides to get started on the basics as quickly as possible:
+
+{% content-ref url="guides/creating-your-first-project.md" %}
+[creating-your-first-project.md](guides/creating-your-first-project.md)
+{% endcontent-ref %}
+
+{% content-ref url="guides/creating-your-first-task.md" %}
+[creating-your-first-task.md](guides/creating-your-first-task.md)
+{% endcontent-ref %}
+
+{% content-ref url="guides/advanced-permissions.md" %}
+[advanced-permissions.md](guides/advanced-permissions.md)
+{% endcontent-ref %}
+
+{% hint style="info" %}
+**Good to know:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
+{% endhint %}
+
+### Fundamentals: Dive a little deeper
 
 
-
-Consequat aute duis fugiat proident non aliquip sint ex sit exercitation dolore voluptate ea. Occaecat ad in est quis culpa voluptate veniam mollit nisi labore ullamco elit. Aliquip ullamco sit ex officia consectetur ullamco reprehenderit qui dolor anim aliqua aute mollit fugiat sunt.
-
-at sunt.
-Consequat aute duis fugiat proident non aliquip sint ex sit exercitation dolore voluptate ea. Occaecat ad in est quis culpa voluptate veniam mollit nisi labore ullamco elit. Aliquip ullamco sit ex officia consectetur ullamco reprehenderit qui dolor anim aliqua aute mollit fugiat sunt.
-
-
-![CleanShot 2024-12-16 at 13.16.01@2x](https://hackmd.io/_uploads/S14jv4aV1l.png)
+{% hint style="info" %}
+**Good to know:** Splitting your product into fundamental concepts, objects, or areas can be a great way to let readers deep dive into the concepts that matter most to them. Combine guides with this approach to 'fundamentals' and you're well on your way to great documentation!
+{% endhint %}
